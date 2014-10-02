@@ -66,6 +66,8 @@ namespace Lesson_6_Basic_Math
             halveKorteAs = Convert.ToDouble(stringHalveKorteAs);
 
             Console.Write("\nGeef nu de lengte van de korte lange as: ");
+            
+            // Type de waarde in van de halve lange as.
             string stringHalveLangeAs = Console.ReadLine();
 
             
