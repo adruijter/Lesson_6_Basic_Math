@@ -75,8 +75,10 @@ namespace Lesson_6_Basic_Math
 
             oppervlakteElipse = Math.Round(halveLangeAs * halveKorteAs * Math.PI, 2);
             
-            Console.WriteLine("\nDe oppervlakte van de elipse is: {0} ", oppervlakteElipse.ToString());        
-            
+            Console.WriteLine("\nDe oppervlakte van de elipse is: {0} ", oppervlakteElipse.ToString());
+
+            Console.WriteLine("Dit is wat tekst om de werking van github in actie te zien");
+
             Console.ReadLine();
         }
     }
